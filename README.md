@@ -1,7 +1,7 @@
 # 📊 FNP-Sale-Analysis (Interactive Dashboard using MS Excel)
 
-## 🎯 Project Objective
-The objective of this project is to analyze FNP sales data and create an interactive Excel dashboard for insights.
+## Project Objective
+You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The dataset contains details about the products, orders, customers, and relevant dates. Your task is to analyze this dataset to uncover key insights related to sales trends, customer behavior, and product performance.
 
 ## 🔄 Process
 1. Collected and imported data from multiple sheets.  
