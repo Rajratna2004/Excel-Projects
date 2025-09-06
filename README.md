@@ -13,8 +13,11 @@ You have been given a dataset from FNP (Ferns and Petals) that specializes in se
 4. Top Products by Revenue: Determine which products are the top revenue generators. 
 5. Customer Spending Analysis: Understand how much customers are spending on average. 
 6. Sales Performance by Top 5 Product: Track the sales performance of top 5 products. 
-7. Top 10 Cities by Number of Orders: Find out which cities are placing the highest number of orders. 8. Order Quantity vs. Delivery Time: Analyze if higher order quantities impact delivery times. 
-9. Revenue Comparison Between Occasions: Compare revenue generated across different occasions. 10. Product Popularity by Occasion: Identify which products are most popular during specific occasions
+7. Top 10 Cities by Number of Orders: Find out which cities are placing the highest number of orders.
+8.  Order Quantity vs. Delivery Time: Analyze if higher order quantities impact delivery times. 
+9. Revenue Comparison Between Occasions: Compare revenue generated across different occasions.
+10. Product Popularity by Occasion: Identify which products are most popular during specific occasions
+
 -Dashboard Interaction <a href="https://github.com/Rajratna2004/Excel-Projects/blob/main/Screenshot%202025-09-05%20184435.png" > View Dashboard<a/>
 
 ## 🔄 Process
