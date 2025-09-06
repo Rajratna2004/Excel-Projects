@@ -3,6 +3,10 @@
 ## Project Objective
 You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The dataset contains details about the products, orders, customers, and relevant dates. Your task is to analyze this dataset to uncover key insights related to sales trends, customer behavior, and product performance.
 
+## Dataset used
+-	<a href="https://github.com/Rajratna2004/Excel-Projects/blob/main/FNP%20project(Auto_).xlsx" >FNP Dataset</a>
+
+
 ## 🔄 Process
 1. Collected and imported data from multiple sheets.  
 2. Cleaned and standardized the dataset.  
